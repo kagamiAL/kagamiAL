@@ -42,16 +42,14 @@ I'm a Computer Science student at the University of Calgary (Dean’s List, 4.0 
 
 - I’m organized, collaborative, and enjoy solving practical problems.
 - Open to new projects, internships, and interesting conversations.
-- Always up for learning something new or contributing to open source.
+- Always up for learning something new or tinkering with things.
 
 ---
 
 ## Contact
 
 - **Email:** bachalan330@gmail.com  
-- **LinkedIn:** [alan-bach-a87251282](https://www.linkedin.com/in/alan-bach-a87251282/)  
+- **LinkedIn:** [alan-bach](https://www.linkedin.com/in/alan-bach-a87251282/)  
 - **GitHub:** [kagamiAL](https://github.com/kagamiAL)
-
-Feel free to reach out if you want to talk tech, AI, games, or just connect!
 
 ---
