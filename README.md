@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-bach-a87251282/)
 [![GitHub](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=white)](https://github.com/kagamiAL)
 
-I'm a Computer Science student at the University of Calgary (Dean’s List, 4.0 GPA), interested in everything from AI research to game development. I like building things that make a difference, learning new tools, and collaborating with others who care about good software.
+I'm a Computer Science student at the University of Calgary (Dean’s List, 4.0 GPA), interested in everything from sytem design to game development. I like building things that make a difference, learning new tools, and collaborating with others who care about good software.
 
 ---
 
