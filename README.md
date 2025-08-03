@@ -1,13 +1,13 @@
-# Hey, I'm Alan Bach 👋
+# Hey, I'm Alan Bach!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-bach-a87251282/)
 [![GitHub](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=white)](https://github.com/kagamiAL)
 
-I'm a Computer Science student at the University of Calgary, interested in everything from sytem design to game development. I build things that I find interesting 😆. 
+I'm a Computer Science student at the University of Calgary, interested in everything from sytem design to game development. I build random things that I find fascinating 😆. (I LOVE VIM) 
 
 ---
 
-## Tech Stack
+## Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
