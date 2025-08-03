@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-bach-a87251282/)
 [![GitHub](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=white)](https://github.com/kagamiAL)
 
-I'm a Computer Science student at the University of Calgary (Dean’s List, 4.0 GPA), interested in everything from sytem design to game development. I like building things that make a difference, learning new tools, and collaborating with others who care about good software.
+I'm a Computer Science student at the University of Calgary, interested in everything from sytem design to game development. I build things that I find interesting 😆. 
 
 ---
 
@@ -33,16 +33,7 @@ I'm a Computer Science student at the University of Calgary (Dean’s List, 4.0 
 
 - [WildlifeDAO](https://github.com/kagamiAL/WildlifeDAO): AI-driven donation platform for wildlife conservation.  
 - [selfchatbot](https://github.com/kagamiAL/selfchatbot): Pipeline for personalizing language models to mimic your own chat style.  
-- [Condensation](https://csgit.ucalgary.ca/ssafe/seng300-f24-project): Multiplayer board game platform (Java).  
-- Roblox games: Built and maintained several Roblox games with 2M+ visits.
-
----
-
-## About Me
-
-- I’m organized, collaborative, and enjoy solving practical problems.
-- Open to new projects, internships, and interesting conversations.
-- Always up for learning something new or tinkering with things.
+- [Condensation](https://csgit.ucalgary.ca/ssafe/seng300-f24-project): Multiplayer board game platform (Java).
 
 ---
 
