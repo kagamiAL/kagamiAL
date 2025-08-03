@@ -1,7 +1,6 @@
 # Hey, I'm Alan Bach!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-bach-a87251282/)
-[![GitHub](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=white)](https://github.com/kagamiAL)
 
 I'm a Computer Science student at the University of Calgary, interested in everything from sytem design to game development. I build random things that I find fascinating 😆. (I LOVE VIM) 
 
@@ -41,6 +40,5 @@ I'm a Computer Science student at the University of Calgary, interested in every
 
 - **Email:** bachalan330@gmail.com  
 - **LinkedIn:** [alan-bach](https://www.linkedin.com/in/alan-bach-a87251282/)  
-- **GitHub:** [kagamiAL](https://github.com/kagamiAL)
 
 ---
