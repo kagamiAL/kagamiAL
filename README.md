@@ -32,7 +32,7 @@ I'm a Computer Science student at the University of Calgary, interested in every
 
 - [WildlifeDAO](https://github.com/kagamiAL/WildlifeDAO): AI-driven donation platform for wildlife conservation.  
 - [selfchatbot](https://github.com/kagamiAL/selfchatbot): Pipeline for personalizing language models to mimic your own chat style.  
-- [Condensation](https://csgit.ucalgary.ca/ssafe/seng300-f24-project): Multiplayer board game platform (Java).
+- [contact-manager](https://github.com/kagamiAL/contact-manager): Full-stack contact manager web-app made in React and Java SpringBoot.
 
 ---
 
