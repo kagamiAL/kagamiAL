@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-bach-a87251282/)
 
-I'm a Computer Science student at the University of Calgary, interested in everything from sytem design to game development. I build random things that I find fascinating 😆. (I LOVE VIM) 
+I'm a Computer Science student at the University of Calgary, interested in everything from system design to game development. I build random things that I find fascinating 😆. (I LOVE VIM) 
 
 ---
 
