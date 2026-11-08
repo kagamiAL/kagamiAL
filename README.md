@@ -30,7 +30,7 @@ I'm a Computer Science student at the University of Calgary, interested in every
 
 ## Projects
 
-- [dodgewuh](https://github.com/kagamiAL/dodgewuh): Full-body 3D co-op dodgeball in the browser. Phones become motion controllers, and you physically dodge balls in slow-mo on webcam.
+- [dodgewuh](https://github.com/kagamiAL/dodgewuh): Full-body 3D co-op dodgeball in the browser with Phones as Wii controllers.
 - [selfchatbot](https://github.com/kagamiAL/selfchatbot): Pipeline for personalizing language models to mimic your own chat style.  
 - [contact-manager](https://github.com/kagamiAL/contact-manager): Full-stack contact manager web-app made in React and Java SpringBoot.
 
